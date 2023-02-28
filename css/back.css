@@ -1,0 +1,28 @@
+* { margin: 20;}
+
+/*header{
+
+    height: 100px;
+    border: 7px dotted rgb(122, 248, 19);
+    padding: 17px;
+
+  
+}*/
+main{
+    color: rgb(255, 136, 0);
+    background-color: rgb(33, 90, 247);
+    background-image: url(https://th.bing.com/th/id/R.d1dc60cf7742037fe7691675722b309f?rik=NJyxAj%2fxHtb4eg&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-origin: content-box;
+    background-clip: content-box;
+    background-attachment: fixed;
+
+
+    background: rgb(20, 8, 189, 0.541) url(https://th.bing.com/th/id/R.d1dc60cf7742037fe7691675722b309f?rik=NJyxAj%2fxHtb4eg&pid=ImgRaw&r=0)
+    no-repeat right top / 100px border-box content-box fixed;
+
+    background: linear-gradient(250deg, red, blue);
+    
+}
